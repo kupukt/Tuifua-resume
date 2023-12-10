@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Kupu Tuifua's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kupu Tuifua
+Ewa Beach, HI | 808-497-8185 | kupuktuifa@gmail.com | [LinkedIn](www.linkedin.com/in/kuputuifua)
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+## Relevant Work Experience
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+### Database Redesign Intern
+May 2021 – August 2021  
+Olelo Community, Ewa Beach, HI
+
+- Tasked with coming up with an idea to fix a broken database and proposing a new data structure.
+- Created a mock database with given information and implemented a relational database with MySQL.
+- Presented the proposed changes to Olelo Community for consideration.
+
+## Personal Projects
+
+### Star Shooter
+November – December 2021  
+Rexburg, ID
+
+- Developed a basic arcade game using C#.
+- Work in progress with a moving rocket ship shooting at falling rocks.
+- [Link to the game](https://github.com/kupukt/StarShooterProject)
+
+### Personal Website
+December 2020  
+Ewa Beach, HI
+
+- Created a website to promote a cousin's banana bread business.
+- Developed using HTML and styled with CSS.
+- [Link to Website](https://kupu-personal-site.glitch.me)
+
+### TCP Chatroom
+September 2022  
+Rexburg, ID
+
+- Created a chatroom using a TCP connection.
+- Developed during networking studies.
+- [Link to Chatroom](https://github.com/kupukt/TCP-Chatroom)
+
+### 2D Fighting Game
+September - December 2022  
+Rexburg, ID
+
+- Coded a part in a team project using the Unity engine to create a fighting game.
+- Wrote code for player effects and spawning of objects.
+- [Link to team project](https://github.com/Tanner-Denti/fightingGame)
+
+### Anime Data Wrangling
+November 2022  
+Rexburg, ID
+
+- Extracted data from an online API and used pandas to wrangle the data.
+- Developed a Python program to identify the highest-rated animes and most watched.
+- [Link to project](https://github.com/kupukt/Anime-Data)
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+**Bachelor of Computer Science**  
+Expected Graduation: December 2024  
+Brigham Young University-Idaho, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Related Courses: Parallelism & Concurrency, Algorithms & Complexity, Programming with Classes in C#, Data Structures, JavaScript, Clojure, Machine Learning.
+- Participating in the Data Science Society.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->
 
 
