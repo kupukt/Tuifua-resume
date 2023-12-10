@@ -1,5 +1,4 @@
 
-```markdown
 # Kupu Tuifua's Resume
 
 ## Contact Information
@@ -51,4 +50,3 @@ Welcome to my professional journey! This repository contains details about my wo
 - Parallelism & Concurrency, Algorithms & Complexity, Programming with Classes in C#, Data Structures, JavaScript, Clojure.
 
 Feel free to explore each section for more details about my professional journey.
-```
