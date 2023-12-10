@@ -1,60 +1,54 @@
-# md-resume
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+```markdown
+# Kupu Tuifua's Resume
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+## Contact Information
+- **Location:** Ewa Beach, HI
+- **Phone:** 808-497-8185
+- **Email:** kupuktuifa@gmail.com
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/kuputuifua)
 
-***
+## Overview
+Welcome to my professional journey! This repository contains details about my work experience, personal projects, and education in the field of computer science.
 
-## Customization
+## Work Experience
+### Database Redesign Intern (May 2021 – August 2021)
+- Tasked with fixing a broken database and proposing a new data structure.
+- Created a mock database and implemented a relational database using MySQL.
+- Presented proposed changes to Olelo Community for consideration.
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+## Personal Projects
+### Star Shooter (November – December 2021)
+- Basic arcade game development using C#.
+- Work in progress with a moving rocket ship shooting at falling rocks.
+- [Link to the game](https://github.com/kupukt/StarShooterProject)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+### Personal Website (December 2020)
+- Developed a website to promote a cousin's banana bread business.
+- Created using HTML and styled with CSS.
+- [Link to Website](https://kupu-personal-site.glitch.me)
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+### TCP Chatroom (September 2022)
+- Developed a chatroom using a TCP connection during networking studies.
+- [Link to Chatroom](https://github.com/kupukt/TCP-Chatroom)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+### 2D Fighting Game (September - December 2022)
+- Coded a part in a team project using the Unity engine to create a fighting game.
+- Wrote code for player effects and spawning of objects.
+- [Link to team project](https://github.com/Tanner-Denti/fightingGame)
 
-adding your skills, jobs and education.
+### Anime Data Wrangling (November 2022)
+- Extracted data from an online API and used pandas to wrangle the data.
+- Developed a Python program to identify the highest-rated animes and most watched.
+- [Link to project](https://github.com/kupukt/Anime-Data)
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+## Education
+- **Degree:** Bachelor of Computer Science
+- **Expected Graduation:** December 2024
+- **University:** Brigham Young University-Idaho, Rexburg, ID
 
-## Distribution
+### Related Courses
+- Parallelism & Concurrency, Algorithms & Complexity, Programming with Classes in C#, Data Structures, JavaScript, Clojure.
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Feel free to explore each section for more details about my professional journey.
+```
